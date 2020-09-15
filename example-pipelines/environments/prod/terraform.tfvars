@@ -1,4 +1,4 @@
-project_id = ""
+project_id = "anthos-101-286009"
 environment = "prod"
 subnet1_region = "us-central1"
 subnet1_zone = "us-central1-a"
